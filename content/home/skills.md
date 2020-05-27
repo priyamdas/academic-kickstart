@@ -18,7 +18,7 @@ subtitle = ""
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Analysis"
-  description = "Mostly use python libraries like numpy, scipy, pandas, and seaborn"
+  description = "Mostly uses python libraries like numpy, scipy, pandas, and seaborn"
 
 [[feature]]
   icon = "java"

@@ -23,7 +23,7 @@ bio: I'm interested in using computational models to study cognitive aging.
 interests:
 - Cognitive Aging
 - Computational Models of Cognition
-- Learning
+- Cognitive Training
 
 education:
   courses:
