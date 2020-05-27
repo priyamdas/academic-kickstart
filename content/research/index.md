@@ -46,4 +46,4 @@ When scientists usually run human behavioral experiments, especially online, the
 
 #### The Effect of Practice in Overcoming Age-Related Performance Gaps 
 It's been fairly well studied that younger adults learn faster and perform better on cognitive tasks testing memory and multitasking ability compared to adults even just 10 years older. This performance gap only increases as the age gap gets larger. However, could the older person ever match or even surpass the younger person's performance given unlimited time to practice the task?
-We are investigating this question using data obtained from popular brain training website [Lumosity](www.lumosity.com).
+We are investigating this question using data obtained from popular brain training website [Lumosity](https://www.lumosity.com).
