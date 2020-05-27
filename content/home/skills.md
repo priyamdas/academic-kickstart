@@ -15,22 +15,28 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Data Analysis"
+  description = "Mostly use python libraries like numpy, scipy, pandas, and seaborn"
+
+[[feature]]
+  icon = "java"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Object-Oriented Programming"
+  description = "Can program in either Java or Python"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Web Development"
+  description = "Has experience in creating and running online experiments using JavaScript/HTML/CSS"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "language"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Languages"
+  description = "native English, proficient Japanese, conversant Assamese, basic Russian"
 
 # Uncomment to use emoji icons.
 # [[feature]]
