@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "chart-bar"
+  icon = "table"
   icon_pack = "fas"
-  name = "Data Analysis"
-  description = "Mostly uses python libraries like numpy, scipy, pandas, and seaborn"
+  name = "Data Processing"
+  description = "NumPy, SciPy, pandas, and seaborn"
 
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Object-Oriented Programming"
-  description = "Can program in either Java or Python"
+  description = "Java and Python"
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Web Development"
-  description = "Has experience in creating and running online experiments using JavaScript/HTML/CSS"  
+  description = "Can create and run online experiments using JavaScript/HTML/CSS"  
   
 [[feature]]
   icon = "language"
