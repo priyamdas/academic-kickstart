@@ -67,6 +67,6 @@ email: ""
 # - Visitors
 ---
 
-I am a graduate student in the Cognitive Sciences department at UC Irvine working with [Mark Steyvers](https://steyvers.socsci.uci.edu/). Currently, I am focused on understanding what learning looks like during old age and ways that we can model this process. Previously, I worked with [Falk Lieder](https://sites.google.com/site/falklieder/home?authuser=0) and [Tom Griffiths](http://cocosci.princeton.edu/tom/tom.php) at UC Berkeley on developing a cognitive tutor to teach people how to plan better. When I'm not in lab I like to bake sweets and study foreign languages. My professional goal is to have a career in research while my life goal is to continue learning new languages even when I'm well in my eighties.
+I am a graduate student in the Cognitive Sciences department at UC Irvine working with [Mark Steyvers](https://steyvers.socsci.uci.edu/). Currently, I am focused on understanding what learning looks like during old age and finding ways that we can model this process. Previously, I worked with [Falk Lieder](https://sites.google.com/site/falklieder/home?authuser=0) and [Tom Griffiths](http://cocosci.princeton.edu/tom/tom.php) at UC Berkeley on developing a cognitive tutor to teach people how to plan better. When I'm not in lab, I like to bake sweets and study foreign languages. My professional goal is to have a career in research, while my life goal is to continue learning new languages even when I'm well in my eighties.
 
 

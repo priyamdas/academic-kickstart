@@ -18,7 +18,7 @@ subtitle = ""
   icon = "table"
   icon_pack = "fas"
   name = "Data Processing"
-  description = "NumPy, SciPy, pandas, and seaborn"
+  description = "using NumPy, SciPy, pandas, and seaborn"
 
 [[feature]]
   icon = "java"
@@ -29,8 +29,8 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Web Development"
-  description = "Can create and run online experiments using JavaScript/HTML/CSS"  
+  name = "Developing Online Experiments"
+  description = "using JavaScript, HTML, and CSS"  
   
 [[feature]]
   icon = "language"
