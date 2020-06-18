@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Top Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -18,19 +18,19 @@ subtitle = ""
   icon = "table"
   icon_pack = "fas"
   name = "Data Processing"
-  description = "using NumPy, SciPy, pandas, and seaborn"
+  description = "using NumPy, SciPy, pandas, and seaborn within Jupyter"
 
-[[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Object-Oriented Programming"
-  description = "Java and Python"
-  
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Developing Online Experiments"
-  description = "using JavaScript, HTML, and CSS"  
+  name = "Object-Oriented Programming"
+  description = "Python and Java"
+  
+[[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "Behavioral Research Methods"
+  description = "experience designing web-based experiments using JavaScript/HTML/CSS and analyzing data"  
   
 [[feature]]
   icon = "language"
