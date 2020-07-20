@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "custom"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2201 Social & Behavioral Sciences Gateway Building", city = "Irvine", region = "CA", postcode = "92697-5100", country = "United States", country_code = "US"}
+#address = {street = "2201 Social & Behavioral Sciences Gateway Building", city = "Irvine", region = "CA", postcode = "92697-5100", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "33.647458", longitude = "-117.839055"}
+#coordinates = {latitude = "33.647458", longitude = "-117.839055"}
 
 # Directions for visitors to locate you.
 directions = ""
