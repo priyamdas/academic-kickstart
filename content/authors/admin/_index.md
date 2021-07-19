@@ -44,7 +44,7 @@ social:
   link: 'mailto:priyam.das@uci.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/priyamnotpriya
+  link: https://twitter.com/_priyamdas
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Ay8t8DEAAAAJ

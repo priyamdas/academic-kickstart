@@ -40,10 +40,13 @@ url_video: ""
 slides: ""
 ---
 ## Current Projects
+#### The Effect of Practice in Overcoming Age-Related Performance Gaps 
+It's been fairly well studied that younger adults learn faster and perform better on cognitive tasks testing memory and multitasking ability compared to adults even just 10 years older. This performance gap only increases as the age gap gets larger. However, could the older person ever match or even surpass the younger person's performance given unlimited time to practice the task?
+We are investigating this question using data obtained from the popular brain training website [Lumosity](https://www.lumosity.com).
+
+## Past Projects
 #### Human Autonomy and Engagement
 {{< figure src="choice.jpg" title="Participants are given the option to choose the types of images to classify." lightbox="true" >}}
 When scientists usually run human behavioral experiments, especially online, the researcher has total control over the experiment flow and the participant simply reacts to the stimuli presented. This works well enough, but we wondered whether giving participants more agency during the experiment would have an effect on their engagement and performance on the task. To investigate this we devised a series of classification tasks where, depending on the task, participants are allowed to choose the category of images that they label, the number of images in each category to label, or even when to quit the experiment. The accuracy and number of images classified of participants who are given agency is compared to those of participants who aren't given any agency and go through a "traditional" version of the task. 
 
-#### The Effect of Practice in Overcoming Age-Related Performance Gaps 
-It's been fairly well studied that younger adults learn faster and perform better on cognitive tasks testing memory and multitasking ability compared to adults even just 10 years older. This performance gap only increases as the age gap gets larger. However, could the older person ever match or even surpass the younger person's performance given unlimited time to practice the task?
-We are investigating this question using data obtained from the popular brain training website [Lumosity](https://www.lumosity.com).
+You can view the results [here](https://docs.google.com/presentation/d/e/2PACX-1vQBUUX5YNPhHSqhlI0OumeP7LOwq8shZoDhVSpO2KdSD6rdBTj62jHg157ecvk3JCIIXK_XOsk0fE_j/pub?start=false&loop=false&delayms=3000).
