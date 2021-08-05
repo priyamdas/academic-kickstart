@@ -42,6 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:priyam.das@uci.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/priyamdas-cogsci
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_priyamdas
