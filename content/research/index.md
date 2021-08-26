@@ -49,5 +49,5 @@ We are investigating this question using data obtained from the popular brain tr
 {{< figure src="choice.jpg" title="Participants are given the option to choose the types of images to classify." lightbox="true" >}}
 When scientists usually run human behavioral experiments, especially online, the researcher has total control over the experiment flow and the participant simply reacts to the stimuli presented. This works well enough, but we wondered whether giving participants more agency during the experiment would have an effect on their engagement and performance on the task. To investigate this we devised a series of classification tasks where, depending on the task, participants are allowed to choose the category of images that they label, the number of images in each category to label, or even when to quit the experiment. The accuracy and number of images classified of participants who are given agency is compared to those of participants who aren't given any agency and go through a "traditional" version of the task. 
 
-[Read more here]({{<ref "/post/autonomy-engagement">}})
+[Read more here]({{<relref "/post/autonomy-engagement">}})
 
