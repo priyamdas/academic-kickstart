@@ -46,6 +46,8 @@ In the second experiment, we again had free choice and forced choice conditions,
 
 ![](switch-choice.png "This time instead of a selection screen with different categories, we added a switch button on the classification screen itself. The blue arrow has been added for emphasis.")
 
+(You can try this version of the experiment [here.](https://sheltered-shore-44141.herokuapp.com))
+
 Again, we found that the accuracy between both conditions was similar. It is possible that the task was too short to allow for boredom to set in properly, or that even given choice, the task wasn’t engaging enough to have an effect on performance. 
 
 ![](maineffect2.png "There was no difference in accuracy between the two conditions.")
