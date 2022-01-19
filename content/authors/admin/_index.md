@@ -45,12 +45,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/priyamdas-cogsci
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/_priyamdas
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Ay8t8DEAAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/_priyamdas
 - icon: github
   icon_pack: fab
   link: https://github.com/priyamdas
