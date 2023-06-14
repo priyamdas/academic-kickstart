@@ -34,7 +34,7 @@ We ran two online experiments to investigate the effect of agency on task engage
 
 ![](sample-trial.png "A sample classification trial from the 'Melons' category.")
 
-In the first experiment, participants were either put in the free choice condition, where they could choose the category of images they wanted to classify, or the forced choice condition where the categories were selected for the participant. In both conditions, participants had the option to quit the experiment whenever they wanted after going through one category’s worth of images. We hypothesized that those in the free choice condition would complete more categories and also have higher classification accuracy compared to those in the forced choice condition, due to being more engaged in the task.
+In the first experiment, participants were either put in the free choice condition, where they could choose the category of images they wanted to classify, or the forced choice condition where the categories were selected for the participant. In both conditions, participants had the option to quit the experiment whenever they wanted after going through one category’s worth of images. We hypothesized that those in the free choice condition would complete more categories and also have higher classification accuracy compared to those in the forced choice condition, due to being more engaged in the task. You can try this version of the experiment [here.](https://grocery-images.web.app/)
 
 ![](no-choice.png "The selection screen shown to participants in the forced choice condition. The red circle has been added for emphasis and was not seen by participants.")
 
@@ -45,8 +45,6 @@ We found the opposite, where people in the forced choice condition completed mor
 In the second experiment, we again had free choice and forced choice conditions, except this time every participant would classify the same number of images. The freedom allowed to some participants in this case was to change the category of images whenever they desired, whereas those in the forced choice condition would only stay in one category for the whole experiment. We hypothesized again that those who had the choice to switch categories would have higher classification accuracy compared those who had no choice because we thought that those who had no choice would get bored faster and that would affect accuracy. 
 
 ![](switch-choice.png "This time instead of a selection screen with different categories, we added a switch button on the classification screen itself. The blue arrow has been added for emphasis.")
-
-(You can try this version of the experiment [here.](https://sheltered-shore-44141.herokuapp.com))
 
 Again, we found that the accuracy between both conditions was similar. It is possible that the task was too short to allow for boredom to set in properly, or that even given choice, the task wasn’t engaging enough to have an effect on performance. 
 
