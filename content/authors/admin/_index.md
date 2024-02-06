@@ -10,19 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Cognitive Science PhD Student
+role: Cognitive Science PhD
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Irvine
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in using computational models to study cognitive aging.
+bio: I use quantitative methods to study cognitive aging.
 
 interests:
 - Cognitive Aging
-- Computational Models of Cognition
 - Cognitive Training
 
 education:
@@ -70,6 +69,6 @@ email: ""
 # - Visitors
 ---
 
-I am a cognitive scientist and recent grad eager to apply my research expertise to products and solutions that help people achieve their goals. I received my Ph.D. in Cognitive Sciences from UC Irvine. During my Ph.D., I focused on understanding what learning looks like during old age and conducted multiple online behavioral experiments to study this process. Previously, I was a research assistant at UC Berkeley and worked on developing a cognitive tutor to teach people how to plan better. Outside of research, I like to bake desserts and study foreign languages. My professional goal is to have a career in research, while my life goal is to continue learning new languages even when I'm well in my eighties.
+I am a cognitive scientist and recent grad eager to apply my research expertise to products and solutions that help people achieve their goals. During my PhD, I focused on understanding what learning looks like during old age and conducted multiple online behavioral experiments to study this process. Previously, I worked on developing a cognitive tutor to teach people how to plan better. Outside of research, I like to bake desserts and study foreign languages. My professional goal is to have a career in research, while my life goal is to continue learning new languages even when I'm well in my eighties.
 
 
