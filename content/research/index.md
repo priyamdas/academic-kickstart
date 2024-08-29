@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-## Projects
+
 #### How Percieved Effort Affects Resistance to Learning New Tools
 {{< figure src="tools.png" title="These three smart ovens can produce cakes of varying quality. Which one would you spend your time on mastering? Try it out [here.](https://toolswitching.web.app/)" lightbox="true" >}}
 Many of us are familiar with asking someone to use a new software or technology and being met with resistance to the change. Perhaps you've even felt it yourself, feeling that the tool you currently use works well enough and that the new tool doesn't warrant the effort needed to learn it. To investigate how this resistance to new tools relates to the effort required to learn the tool and the age of the user, I've designed a set of studies which ask people to learn to use kitchen appliances of varying difficulty. You can try one of the experiments [here.](https://toolswitching.web.app/)
